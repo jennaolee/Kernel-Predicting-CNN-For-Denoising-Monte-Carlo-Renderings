@@ -1,6 +1,7 @@
 # Kernel-Predicting-CNN-For-Denoising-Monte-Carlo-Renderings
-
-A replication of Kernel-Predicting Convolutional Neural Networks (KPCN) for Denoising Monte Carlo Renderings paper by Bako et. al. This project includes a baseline KPCN model and a finetuned variant for specular and diffuse component separation in Python, and the methods have been implemented following the (research paper)[https://studios.disneyresearch.com/2017/07/20/kernel-predicting-convolutional-networks-for-denoising-monte-carlo-renderings/].
+## CMPT 469/722 Rendering and Visual Computing for AI - Final Project 
+### Submitted By: Asmita Srivastava & Jenna Lee
+A replication of Kernel-Predicting Convolutional Neural Networks (KPCN) for Denoising Monte Carlo Renderings paper by Bako et. al. This project includes a baseline KPCN model and a finetuned variant for specular and diffuse component separation in Python, and the methods have been implemented following the [research paper](https://studios.disneyresearch.com/2017/07/20/kernel-predicting-convolutional-networks-for-denoising-monte-carlo-renderings/).
 
 ## Repository Structure
 
