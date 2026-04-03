@@ -6,7 +6,7 @@ A replication of Kernel-Predicting Convolutional Neural Networks (KPCN) for Deno
 ## Repository Structure
 
 ### Notebooks
-- **`469_Baseline_CNN.ipynb`** - The baseline KPCN model implementation and training/evaluation pipeline
+- **`469_baseline_CNN.ipynb`** - The baseline KPCN model implementation and training/evaluation pipeline
 - **`specular+diffuse_CNN.ipynb`** - Finetuned KPCN model trained on separated specular and diffuse rendering components
 - **`specular_diffuse.ipynb`** - Same as specular+diffuse_CNN.ipynb but with caching implementation for faster training; not recommended for Colab execution due to increased runtime
 
